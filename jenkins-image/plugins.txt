@@ -1,0 +1,7 @@
+git:latest
+github:latest
+github-branch-source:latest
+pipeline-stage-view:latest
+matrix-auth:latest
+envinject:latest
+uno-choice:latest
